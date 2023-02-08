@@ -1,0 +1,17 @@
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.csproj.AssemblyReference.cache
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.AssemblyInfoInputs.cache
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.AssemblyInfo.cs
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.csproj.CoreCompileInputs.cache
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\bin\Debug\net6.0\prac_5_cakes.exe
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\bin\Debug\net6.0\prac_5_cakes.deps.json
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\bin\Debug\net6.0\prac_5_cakes.runtimeconfig.json
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\bin\Debug\net6.0\prac_5_cakes.dll
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\bin\Debug\net6.0\prac_5_cakes.pdb
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\bin\Debug\net6.0\WindowsInput.dll
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.csproj.CopyComplete
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.dll
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\refint\prac_5_cakes.dll
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.pdb
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\prac_5_cakes.genruntimeconfig.cache
+C:\Users\klika\source\repos\prac_5_cakes\prac_5_cakes\obj\Debug\net6.0\ref\prac_5_cakes.dll
